@@ -391,3 +391,45 @@ p {
   margin-top: 8px;
   background-color: var(--color-dark-white);
 }
+
+/* Good words */
+#goodWords {
+  background-color: var(--color-light-white);
+}
+
+.words {
+  margin: 40px;
+}
+
+.word {
+  display: flex;
+  margin: 32px 0;
+}
+
+.word__avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.word__avatar:nth-child(odd) {
+  margin-right: 40px;
+}
+
+.word__avatar:nth-child(even) {
+  margin-left: 40px;
+}
+
+.word__speech-bubble {
+  padding: 18px;
+  background-color: var(--color-white);
+  border-radius: var(--size-border-radius);
+}
+
+.word__speech-bubble p {
+  color: var(--color-light-grey);
+}
+
+.word__speech-bubble a {
+  color: var(--color-purple);
+}
