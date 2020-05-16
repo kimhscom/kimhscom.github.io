@@ -249,6 +249,10 @@ p {
   border-radius: 50%;
 }
 
+.edu__certificate {
+  color: var(--color-blue);
+}
+
 /* Skill */
 #skills {
   background-color: var(--color-yellow);
