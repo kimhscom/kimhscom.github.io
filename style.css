@@ -14,8 +14,8 @@
   --color-yellow: #fff7d1;
   --color-orange: #feb546;
   --color-black: #000000;
-  --color-green: #14ec00;
-  --color-dark-green: #085c00;
+  --color-purple: #9000f0;
+  --color-dark-purple: #590094;
 
   /* Font size */
   --font-large: 48px;
@@ -87,7 +87,7 @@ p {
 #navbar {
   display: flex;
   justify-content: space-between;
-  background-color: var(--color-green);
+  background-color: var(--color-purple);
   align-items: center;
   color: var(--color-white);
   padding: 16px;
@@ -114,5 +114,5 @@ p {
 }
 
 .navbar__menu__item:hover {
-  background-color: var(--color-dark-green);
+  background-color: var(--color-dark-purple);
 }
