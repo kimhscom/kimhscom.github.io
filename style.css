@@ -255,6 +255,7 @@ p {
   font-size: var(--font-micro);
 }
 
+.job__logo,
 .edu__logo,
 .certificate__logo {
   width: 80px;
