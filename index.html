@@ -323,13 +323,13 @@
         <h1>My portfolio</h1>
         <h3>Projects</h3>
         <div class="portfolio__categories">
-          <button class="category__btn active">
+          <button class="category__btn active" data-filter="*">
             All<span class="category__count">2</span>
           </button>
-          <button class="category__btn">
+          <button class="category__btn" data-filter="html+css">
             HTML + CSS<span class="category__count">1</span>
           </button>
-          <button class="category__btn">
+          <button class="category__btn" data-filter="vanillajs">
             VanillaJS<span class="category__count">1</span>
           </button>
         </div>
@@ -339,6 +339,7 @@
             href="https://kimhscom.github.io/kakao-clone-v2/"
             class="project"
             target="blank"
+            data-type="html+css"
           >
             <img
               src="images/projects/kokoa.png"
@@ -354,6 +355,7 @@
             href="https://kimhscom.github.io/momentum-js/"
             class="project"
             target="blank"
+            data-type="vanillajs"
           >
             <img
               src="images/projects/momentum.png"
