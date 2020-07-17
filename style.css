@@ -217,7 +217,6 @@ p {
   color: var(--color-dark-grey);
 }
 
-.job,
 .edu,
 .certificate {
   display: flex;
@@ -225,15 +224,12 @@ p {
   margin-bottom: 16px;
 }
 
-.job_description,
 .edu__description,
 .certificate__description {
   margin: 0 16px;
   text-align: left;
 }
 
-.job__name,
-.job__period,
 .edu__title,
 .edu__period,
 .certificate_title,
@@ -241,7 +237,6 @@ p {
   color: var(--color-light-grey);
 }
 
-.job__name,
 .edu__title,
 .edu__name,
 .certificate_title,
@@ -249,13 +244,11 @@ p {
   font-size: var(--font-small);
 }
 
-.job__period,
 .edu__period,
 .certificate__date {
   font-size: var(--font-micro);
 }
 
-.job__logo,
 .edu__logo,
 .certificate__logo {
   width: 80px;
