@@ -195,8 +195,9 @@ p {
 
 /* About */
 .about__majors {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 30px 0px;
   margin: 80px 0;
 }
 
@@ -558,6 +559,7 @@ p {
   }
 
   .about__majors {
+    display: flex;
     flex-direction: column;
     margin-top: 30px;
     margin-bottom: 0px;
