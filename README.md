@@ -20,9 +20,9 @@
 
 ![Navbar](https://user-images.githubusercontent.com/47877911/88297809-57eaed80-cd3b-11ea-90c0-991900b23d71.gif)
 
-3. Leverage CSS for stack-specific understanding of Skills items to implement them in Progress Bar format.
+3. Depending on the skill level, CSS was used to implement skill items in the form of Step Progress Bar.
 
-<code><img width="600px" src="https://user-images.githubusercontent.com/47877911/88298534-3fc79e00-cd3c-11ea-845f-3996cd8aaee3.png"></code>
+<code><img width="600px" src="https://user-images.githubusercontent.com/47877911/93976476-03540500-fdb4-11ea-9de1-bcca94827222.png"></code>
 
 4. Implementing a function that utilizes dataset to show project results sorted by category when clicking the Usage Stack tab.
 
