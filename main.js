@@ -90,7 +90,7 @@ portfolioBtnContainer.addEventListener("click", (e) => {
 //Show year and contact ringht in footer
 const contactRights = document.querySelector("#contact .contact__rights");
 const year = new Date().getFullYear();
-contactRights.innerHTML = `&copy ${year} Any development challenge Amkor - All rights reserved`;
+contactRights.innerHTML = `&copy ${year} Like the brave LionKing - All rights reserved`;
 
 function scrollIntoView(selector) {
   const scrollTo = document.querySelector(selector);
