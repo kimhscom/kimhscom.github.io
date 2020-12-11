@@ -1,6 +1,6 @@
 # Wecome to LionKing's portfolio website
 
-(👉[See the LionKing's portfolio website](https://kimhscom.github.io/)👈)
+(👉[See the LionKing's portfolio website](https://kimhscom.github.io/portfolio2020)👈)
 
 ### Implemented as a responsive dynamic website for the purpose of showing results through self-introduction and challenge courses and side project activities.
 
